@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625980883 source:c:\users\estan\onedrive\Área de trabalho\servidor\main.c
+	<winsock.h>
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
